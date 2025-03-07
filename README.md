@@ -10,3 +10,12 @@ This project is a **Face Emotion Recognition System** built using **Flask, MySQL
 ✔️ Generates Statistics of Detected Emotions  
 ✔️ Flask-based Web Interface  
 ✔️ Uses MySQL for User Management  
+
+
+---
+
+## 🔧 Installation Guide  
+
+### 1️⃣ **Clone the Repository**  
+```sh
+git clone https://github.com/Gslswathi/Facial-Emotion-Recognition.git
