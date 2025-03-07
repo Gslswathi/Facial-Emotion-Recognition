@@ -19,3 +19,8 @@ This project is a **Face Emotion Recognition System** built using **Flask, MySQL
 ### 1️⃣ **Clone the Repository**  
 ```sh
 git clone https://github.com/Gslswathi/Facial-Emotion-Recognition.git
+
+## Setup Virtual Environment (Optional but Recommended)
+pip install virtualenv
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
